@@ -269,7 +269,7 @@ pixi run format
 
 ## License
 
-MIT
+Apache 2.0
 
 ## Part of mojo-contrib
 
